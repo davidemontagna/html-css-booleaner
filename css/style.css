@@ -1,0 +1,14 @@
+#pattern{
+    width: 100%;
+    height: 180px;
+    background-image: url(../img/pattern.png);
+    position: relative;
+    background-color: #4ea0ff;
+}
+
+#logo{
+    position: absolute;
+    height: 50%;
+    margin-top: 70px;
+    margin-left: 10px;
+}
