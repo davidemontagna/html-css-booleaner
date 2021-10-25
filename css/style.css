@@ -3,7 +3,7 @@ margin: 0;
 box-sizing: border-box;
 }
 
-main{
+main, footer{
     margin: 15px;
 }
 
@@ -31,20 +31,12 @@ section h3{
     color: rgb(142, 142, 142);
 }
 
-p{
-    margin-top: 20px;
-}
-
-ul{
+p, ul, table{
     margin-top: 20px;
 }
 
 .evidenced-text{
     background-color: rgb(255, 255, 0);
-}
-
-table{
-    margin-top: 20px;
 }
 
 th{
@@ -59,4 +51,21 @@ thead{
     background-color: rgb(177, 229, 242);
 }
 
+footer h5{
+    font-size: 20px;
+    color: rgb(142, 142, 142);
+}
 
+.img-interessanti{
+    position: relative;
+    margin-top: 15px;
+}
+
+footer h4{
+    display: inline-block;
+    position: absolute;
+    top: 15px;
+    left: 10px;
+    color: white;
+    font-size: 25px;
+}
