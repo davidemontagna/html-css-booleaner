@@ -3,6 +3,10 @@ margin: 0;
 box-sizing: border-box;
 }
 
+main{
+    margin: 15px;
+}
+
 
 #pattern{
     width: 100%;
@@ -27,10 +31,32 @@ section h3{
     color: rgb(142, 142, 142);
 }
 
-#main-text{
+p{
     margin-top: 20px;
 }
 
 ul{
     margin-top: 20px;
 }
+
+.evidenced-text{
+    background-color: rgb(255, 255, 0);
+}
+
+table{
+    margin-top: 20px;
+}
+
+th{
+    text-align: left;   
+}
+
+thead{
+    background-color: rgb(32, 169, 229);
+}
+
+.evidenced-table{
+    background-color: rgb(177, 229, 242);
+}
+
+
