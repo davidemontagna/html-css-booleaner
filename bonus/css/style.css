@@ -35,6 +35,10 @@ p, ul, table{
     margin-top: 20px;
 }
 
+table{
+    border-collapse: collapse;
+}
+
 .evidenced-text{
     background-color: rgb(255, 255, 0);
 }
